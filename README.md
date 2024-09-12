@@ -1,3 +1,2 @@
 # Notemaker Agent
 
-## Notes
